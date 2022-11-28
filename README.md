@@ -127,22 +127,14 @@ Remote Images
 ![Engelbart](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
 
 Local Images
-![[angkush.png]]
-
-Resizing image width (say 100)
-![Engelbart|100](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
-![[angkush.png|100]]
+![angkush](angkush.png)
 ```
 
 ### Result
 
 ![Engelbart](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
 
-![[angkush.png]]
-
-![Engelbart|100](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
-
-![[angkush.png|100]]
+![angkush.png](angkush.png)
 
 
 ## Links
@@ -281,12 +273,6 @@ This is ~~striked~~ text
 This is ~~striked~~ text
 
 
-## Highlight
-
-```bash
-This is ==highlighted== text
-```
-
 ### Result
 
 This is ==highlighted== text
@@ -324,40 +310,6 @@ c & d
 \end{vmatrix}=ad - bc$$
 
 $e^{2i\pi} = 1$
-
-
-## Comments
-
-```bash
-%%
-It can span multiple lines
-but
-will not show up in the preview
-%%
-```
-
-### Result
-
-%%
-It can span multiple lines
-but
-will not show up in the preview
-%%
-
-
-## Callouts
-
-```bash
-> [!INFO]
-> This is a callout block.
-> Here is some **bold** text.
-```
-
-### Result
-
-> [!INFO]
-> This is a callout block.
-> Here is some **bold** text.
 
 
 ## Diagram
