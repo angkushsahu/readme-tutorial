@@ -215,8 +215,9 @@ function sayHi(str) {
 - [x] CSS
 - [x] React
 - [x] Node
-- [] Flutter
-- [] DSA
+- [?] React Native
+- [ ] Flutter
+- [ ] DSA
 ```
 
 ### Result
@@ -225,8 +226,9 @@ function sayHi(str) {
 - [x] CSS
 - [x] React
 - [x] Node
-- [] Flutter
-- [] DSA
+- [?] React Native
+- [ ] Flutter
+- [ ] DSA
 
 
 ## Tables
