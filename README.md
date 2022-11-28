@@ -215,7 +215,6 @@ function sayHi(str) {
 - [x] CSS
 - [x] React
 - [x] Node
-- [?] React Native
 - [ ] Flutter
 - [ ] DSA
 ```
@@ -226,7 +225,6 @@ function sayHi(str) {
 - [x] CSS
 - [x] React
 - [x] Node
-- [?] React Native
 - [ ] Flutter
 - [ ] DSA
 
